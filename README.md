@@ -1,6 +1,5 @@
 **Toyota Supra**
 
-==Test==
 
 ![All Supras Photo](./photo/All.png)
 
