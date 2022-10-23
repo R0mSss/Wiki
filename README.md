@@ -15,7 +15,7 @@
 | FAILLE DE L'INVOCATEUR | ARAM | TEAMFIGHT TACTICS | MODE TEMPORAIRE |
 |:----------------------:|:----:|:--------------:|:--------------:|
 | Dominez votre voie, lancez-vous dans des combats d'équipes titanesques en 5c5 et détruisez le Nexus ennemi dnas le meilleure mode de jeu compétitif de League.         | Dix champion sélectionnés aléatoirement sont réunis sur l'étroit pont d'une région glacée. Traversez-la et détruisez tout sur votre chemin. | Assemblez un groupe de champions qui combattront pour vous. Résistez aux assault de vos sept adversaireset soyer le dernier survivant. | Tout dépend du mode temporaire. |
-| ***Mode aveugle :*** Dans ce mode de jeu, deux équipes de cinq joueurs s'affrontent sur une carte symétrique, en forme de carré, afin de détruire le Nexus adverse gardé par les champions ennemis, et des structures défensives nommées « tourelles ». ***Mode draft :*** Les deux capitaines doivent alors bannir des champions. Ensuite, les équipes sélectionnent chacune leur tour des champions, en n'oubliant pas que les choix sont visibles par l'équipe adverse, qui peut donc sélectionner des champions pour contrer la stratégie de l'autre. ***Classé en solo/duo :*** Dans ce mode vous pourrez jouer en classé soit en solo soit en duo avec un mate ou un random. ***Classé flexible :*** Et pout finir, dans ce mode la vous pourez jouer en classé aussi mais en groupe de quatre ou cinq, groupe de trois interdit. | Aucun mode | ***Mode standard :*** Jouez a TFT normalement. ***Double up :*** Dans Double Up, vous partagez vos victoires, vos défaites et même certains de vos champions avec un autre joueur. Vous pouvez faire la queue avec quelqu'un de votre liste d'amis, ou vous pouvez lancer les dés et faire correspondre quelqu'un au hasard. Dans tous les cas, vous n'affronterez jamais ce joueur au combat. ***Mode classé :*** Jouez a TFT en classé. ***Hyper roll :*** Version plus courte et concise du TFT standard. | Tout dépend du mode temporaire. |
+| **MODE :** ***Mode aveugle :*** Dans ce mode de jeu, deux équipes de cinq joueurs s'affrontent sur une carte symétrique, en forme de carré, afin de détruire le Nexus adverse gardé par les champions ennemis, et des structures défensives nommées « tourelles ». ***Mode draft :*** Les deux capitaines doivent alors bannir des champions. Ensuite, les équipes sélectionnent chacune leur tour des champions, en n'oubliant pas que les choix sont visibles par l'équipe adverse, qui peut donc sélectionner des champions pour contrer la stratégie de l'autre. ***Classé en solo/duo :*** Dans ce mode vous pourrez jouer en classé soit en solo soit en duo avec un mate ou un random. ***Classé flexible :*** Et pout finir, dans ce mode la vous pourez jouer en classé aussi mais en groupe de quatre ou cinq, groupe de trois interdit. | **MODE :** Aucun mode | **MODE :** ***Mode standard :*** Jouez a TFT normalement. ***Double up :*** Dans Double Up, vous partagez vos victoires, vos défaites et même certains de vos champions avec un autre joueur. Vous pouvez faire la queue avec quelqu'un de votre liste d'amis, ou vous pouvez lancer les dés et faire correspondre quelqu'un au hasard. Dans tous les cas, vous n'affronterez jamais ce joueur au combat. ***Mode classé :*** Jouez a TFT en classé. ***Hyper roll :*** Version plus courte et concise du TFT standard. | **MODE :** Tout dépend du mode temporaire. |
 
  ---
  
@@ -55,4 +55,15 @@ La plus part des champions de League of Legends ont deux rôles : un principale 
 
 ## Les Lane (voies)
 
-![LOL](./photo/lanelol#2.png)
+>League of Legends est un MOBA (Multiplayer Online Battle Arena) qui se joue en 5v5 sur une carte divisée en plusieurs zones, et plusieurs lanes : la jungle, la top lane (la voie du haut), la mid lane (la voie du milieu) et la bot lane (la voie du bas).
+
+
+![LOL](./photo/llanelol.png)*
+
+* Le bot est une voie 2v2, vous devrez donc suivre les portées d'attaque automatique pour deux champions ennemis. Ceci est également vrai pour les sorts ennemis. Les trois informations que vous devez suivre pour les sorts sont la portée, le temps de recharge et si les sorts passent ou non à travers les sbires.
+
+* Le top laner est le champion qui se trouve sur la ligne du haut (le top donc). Il est généralement seul, même si à bas niveau il vous arrivera de rencontrer des équipes avec deux personnes au top.
+
+* Le midlaner est un champion éliminant rapidement sa cible ou bien une menace qui peut tenir l'équipe adverse à distance. En plus de devoir éliminer les adversaires, il doit aussi aider les autres lanes tout au long de la partie pour leur permettre de prendre l'avantage face aux joueurs adverses.
+
+* Le jungle occupe une place déterminante dans la partie, c'est le seul joueur qui n'est assigné à aucune Lane du jeu. Le poste de ce joueur lui permet donc de jouer sur toutes les Lanes pour aider ses coéquipiers.
