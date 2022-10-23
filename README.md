@@ -2,12 +2,12 @@
 
 ![LOL](./photo/1280x720_LoL.png)
 
->League of Legends (abrégé LoL) est un jeu vidéo sorti en 2009 de type arène de bataille en ligne, free-to-play, développé et édité par Riot Games sur Windows et Mac OS, des joueurs peuvent s'affronter en équipe et en ligne, lors de combats prenant place dans un univers fantstique.
+>[League of Legends](https://fr.wikipedia.org/wiki/League_of_Legends) (abrégé LoL) est un jeu vidéo sorti en 2009 de type arène de bataille en ligne, free-to-play, développé et édité par [Riot Games](https://fr.wikipedia.org/wiki/Riot_Games) sur Windows et Mac OS, des joueurs peuvent s'affronter en équipe et en ligne, lors de combats prenant place dans un univers fantstique.
 
 
 ## Quelle est l'histoire de League of Legend ?
 
->L'idée de League of Legends advient lorsque Steve “Guinsoo” Feak, développeur du mod de Warcraft 3 Defense of the Ancients (plus connu sous le nom de DOTA), et l'administrateur du mod, Steve “Pendragon” Mescon, font la connaissance du tout jeune studio Riot Games en 2005.
+>L'idée de League of Legends advient lorsque [Steve Feak](https://fr.wikipedia.org/wiki/Steve_Feak) “Guinsoo”, développeur du mod de Warcraft 3 Defense of the Ancients (plus connu sous le nom de [DOTA](https://fr.wikipedia.org/wiki/Dota_2)), et l'administrateur du mod, [Steve Mescon](https://leagueoflegends.fandom.com/wiki/Steve_%27Pendragon%27_Mescon) “Pendragon”, font la connaissance du tout jeune studio Riot Games en 2005.
 
 ## Mode de jeu PVP
 
@@ -23,4 +23,8 @@
 ## Type de rôles
 
 >Les rôles se sont des catégories en quelques sortes pour classer les champions en fonction de leurs styles de jeu. Il est important de connaitre les rôles (qui sont définis par Riot Games) des champions avant de les jouer pour savoir à quel postes ils seront le mieux afin de profiter un maximum de leurs capacités. Surtout que les personnages ont tous des points faibles, c’est ça aussi qui les classes dans certaines catégories. Alors si vous vous amusez à mettre un champion à l’endroit où il ne va pas, vous ne verrez que ses points faibles et ne comprendrez pas forcément en quoi le champions est bien. Car oui TOUT les champions de League of Legends  sont intéressants à jouer car ils ont tous un style de jeu bien à eux.
+
+![lol role](./photo/rolelol.png)
+
+>***Il y a donc 6 rôles :*** * Les assassins, les mages, les tanks, les tireurs, les supports et les combattants. La plus part des champions de League of Legends ont deux rôles : un principale (ce dans quoi ils sont les meilleurs) et un secondaire.
 
