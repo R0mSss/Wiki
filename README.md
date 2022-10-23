@@ -55,7 +55,7 @@ La plus part des champions de League of Legends ont deux rôles : un principale 
 
 ## Les Lane (voies)
 
->League of Legends est un MOBA (Multiplayer Online Battle Arena) qui se joue en 5v5 sur une carte divisée en plusieurs zones, et plusieurs lanes : la jungle, la top lane (la voie du haut), la mid lane (la voie du milieu) et la bot lane (la voie du bas).
+>League of Legends est un [MOBA](https://fr.wikipedia.org/wiki/Ar%C3%A8ne_de_bataille_en_ligne_multijoueur) (Multiplayer Online Battle Arena) qui se joue en 5v5 sur une carte divisée en plusieurs zones, et plusieurs lanes : la jungle, la top lane (la voie du haut), la mid lane (la voie du milieu) et la bot lane (la voie du bas).
 
 
 ![LOL](./photo/lllanelol.png)
