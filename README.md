@@ -58,7 +58,7 @@ La plus part des champions de League of Legends ont deux rôles : un principale 
 >League of Legends est un MOBA (Multiplayer Online Battle Arena) qui se joue en 5v5 sur une carte divisée en plusieurs zones, et plusieurs lanes : la jungle, la top lane (la voie du haut), la mid lane (la voie du milieu) et la bot lane (la voie du bas).
 
 
-![LOL](./photo/llanelol.png)*
+![LOL](./photo/lllanelol.png)
 
 * Le bot est une voie 2v2, vous devrez donc suivre les portées d'attaque automatique pour deux champions ennemis. Ceci est également vrai pour les sorts ennemis. Les trois informations que vous devez suivre pour les sorts sont la portée, le temps de recharge et si les sorts passent ou non à travers les sbires.
 
