@@ -54,3 +54,5 @@
 La plus part des champions de League of Legends ont deux rôles : un principale (ce dans quoi ils sont les meilleurs) et un secondaire.
 
 ## Les Lane (voies)
+
+![lol lane](./photo/lanelol#2.png)
