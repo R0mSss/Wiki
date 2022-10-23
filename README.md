@@ -55,4 +55,4 @@ La plus part des champions de League of Legends ont deux rôles : un principale 
 
 ## Les Lane (voies)
 
-![LOL](./photo/lollane#2.png)
+![LOL](./photo/lollane#2)
